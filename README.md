@@ -84,14 +84,14 @@
 
 <p align="center">
   🔵 <b>Facebook:</b>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="[https://www.facebook.com/your-profile](https://www.facebook.com/abdallah.el.hadad.54309)" target="_blank">
     facebook.com/your-profile
   </a>
 </p>
 
 <p align="center">
   💼 <b>LinkedIn:</b>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/abdallah-ashraf-8565b9250" target="_blank">
     linkedin.com/in/your-profile
   </a>
 </p>
