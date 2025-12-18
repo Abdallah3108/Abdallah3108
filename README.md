@@ -1,9 +1,19 @@
 <h1 align="center">👋 Hi, I'm Abdallah Ashraf</h1>
-<h3 align="center">Flutter Developer 💙 | Clean Architecture & Modern UI</h3>
+<h3 align="center">Flutter Developer 💙 | Clean Architecture | Modern UI</h3>
 
 <p align="center">
-  I build scalable, high-quality mobile applications using Flutter,<br/>
-  focusing on clean code, performance, and great user experience.
+  I build scalable and high-quality mobile applications using Flutter,<br/>
+  with a strong focus on clean code, performance, and user experience.
+</p>
+
+<br/>
+
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cubit-Bloc-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%E2%9C%94-success?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -13,17 +23,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="230">
       <h3>📱 Flutter</h3>
       <p>Dart • Widgets • Responsive UI</p>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="230">
       <h3>🧩 State Management</h3>
       <p>Cubit • Provider</p>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="230">
       <h3>🌐 API Integration</h3>
-      <p>Dio • REST APIs</p>
+      <p>REST APIs • Dio</p>
     </td>
   </tr>
   <tr>
@@ -37,7 +47,7 @@
     </td>
     <td align="center">
       <h3>🎯 Code Quality</h3>
-      <p>Clean Code • Best Practices</p>
+      <p>Readable • Scalable • Maintainable</p>
     </td>
   </tr>
 </table>
@@ -48,10 +58,10 @@
 <h2 align="center">📸 App Screenshots</h2>
 
 <p align="center">
-  <!-- استبدل الصور دي بسكرينشوتس مشاريعك -->
-  <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="200"/>
-  <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="200"/>
-  <img src="https://via.placeholder.com/220x440?text=Details+Screen" width="200"/>
+  <!-- غير الصور دي بسكرينشوتس مشاريعك -->
+  <img src="https://via.placeholder.com/220x440?text=Login+Screen" width="190"/>
+  <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="190"/>
+  <img src="https://via.placeholder.com/220x440?text=Details+Screen" width="190"/>
 </p>
 
 <p align="center">
@@ -64,15 +74,14 @@
 <h2 align="center">🎨 Development Style</h2>
 
 <ul>
-  <li>✔ Scalable & maintainable architecture</li>
+  <li>✔ Clean & scalable project structure</li>
   <li>✔ Reusable and testable widgets</li>
   <li>✔ Clear separation of concerns</li>
-  <li>✔ Performance-focused development</li>
+  <li>✔ Performance-aware development</li>
 </ul>
 
 <br/>
 
-<!-- ================= CONTACT ================= -->
 <!-- ================= CONTACT ================= -->
 <h2 align="center">📬 Contact Me</h2>
 
@@ -97,9 +106,11 @@
   </a>
 </p>
 
+<br/>
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  ⭐ Feel free to explore my repositories and give them a star
+  ⭐ Check out my pinned repositories for real Flutter projects
 </p>
 
 <p align="center">
