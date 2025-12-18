@@ -73,6 +73,7 @@
 <br/>
 
 <!-- ================= CONTACT ================= -->
+<!-- ================= CONTACT ================= -->
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
@@ -84,19 +85,17 @@
 
 <p align="center">
   🔵 <b>Facebook:</b>
-  <a href="[https://www.facebook.com/your-profile](https://www.facebook.com/abdallah.el.hadad.54309)" target="_blank">
-    facebook.com/your-profile
+  <a href="https://www.facebook.com/abdallah.el.hadad.54309" target="_blank">
+    facebook.com/abdallah.el.hadad.54309
   </a>
 </p>
 
 <p align="center">
   💼 <b>LinkedIn:</b>
-  <a href="www.linkedin.com/in/abdallah-ashraf-8565b9250" target="_blank">
-    linkedin.com/in/your-profile
+  <a href="https://www.linkedin.com/in/abdallah-ashraf-8565b9250/" target="_blank">
+    linkedin.com/in/abdallah-ashraf-8565b9250
   </a>
 </p>
-
-<br/>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
