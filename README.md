@@ -1,105 +1,108 @@
-<h1 align="center">🚀 Flutter Project</h1>
+<h1 align="center">👋 Hi, I'm Abdallah Ashraf</h1>
+<h3 align="center">Flutter Developer 💙 | Clean Architecture & Modern UI</h3>
 
 <p align="center">
-  <b>Built with Flutter • Clean Architecture • Modern UI</b>
+  I build scalable, high-quality mobile applications using Flutter,<br/>
+  focusing on clean code, performance, and great user experience.
 </p>
 
-<hr/>
+<br/>
 
-<h2>👨‍💻 About Me</h2>
+<!-- ================= SKILLS CARDS ================= -->
+<h2 align="center">🧠 Skills & Tech Stack</h2>
 
-<p>
-  Hi 👋 <br/>
-  I'm <b>Abdallah Ashraf</b>, a <b>Flutter Developer</b> passionate about building
-  scalable and clean mobile applications using Flutter.
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <h3>📱 Flutter</h3>
+      <p>Dart • Widgets • Responsive UI</p>
+    </td>
+    <td align="center" width="220">
+      <h3>🧩 State Management</h3>
+      <p>Cubit • Provider</p>
+    </td>
+    <td align="center" width="220">
+      <h3>🌐 API Integration</h3>
+      <p>Dio • REST APIs</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>💾 Local Storage</h3>
+      <p>SharedPreferences</p>
+    </td>
+    <td align="center">
+      <h3>🧱 Architecture</h3>
+      <p>MVVM • Clean Architecture</p>
+    </td>
+    <td align="center">
+      <h3>🎯 Code Quality</h3>
+      <p>Clean Code • Best Practices</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= SCREENSHOTS ================= -->
+<h2 align="center">📸 App Screenshots</h2>
+
+<p align="center">
+  <!-- استبدل الصور دي بسكرينشوتس مشاريعك -->
+  <img src="https://via.placeholder.com/220x440?text=Login+Screen" width="200"/>
+  <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="200"/>
+  <img src="https://via.placeholder.com/220x440?text=Details+Screen" width="200"/>
 </p>
 
-<ul>
-  <li>💙 Flutter & Dart</li>
-  <li>🧠 State Management (Cubit / Provider)</li>
-  <li>🌐 REST APIs (Dio)</li>
-  <li>💾 SharedPreferences</li>
-  <li>🎯 Clean Code & Best Practices</li>
-</ul>
-
-<hr/>
-
-<h2>📱 Project Overview</h2>
-
-<p>
-  This Flutter application focuses on clean UI, structured architecture,
-  and efficient state management.
+<p align="center">
+  <i>Clean UI • Smooth UX • Flutter Powered</i>
 </p>
 
-<hr/>
+<br/>
 
-<h2>🛠️ Tech Stack</h2>
-
-<ul>
-  <li>Flutter</li>
-  <li>Dart</li>
-  <li>Cubit (Bloc)</li>
-  <li>Dio</li>
-  <li>SharedPreferences</li>
-</ul>
-
-<hr/>
-
-<h2>✨ Features</h2>
+<!-- ================= DEV STYLE ================= -->
+<h2 align="center">🎨 Development Style</h2>
 
 <ul>
-  <li>User Authentication</li>
-  <li>API Integration</li>
-  <li>State Management</li>
-  <li>Local Storage</li>
-  <li>Responsive UI</li>
+  <li>✔ Scalable & maintainable architecture</li>
+  <li>✔ Reusable and testable widgets</li>
+  <li>✔ Clear separation of concerns</li>
+  <li>✔ Performance-focused development</li>
 </ul>
 
-<hr/>
+<br/>
 
-<h2>📂 Project Structure</h2>
+<!-- ================= CONTACT ================= -->
+<h2 align="center">📬 Contact Me</h2>
 
-<pre>
-lib/
- ├── core/
- ├── features/
- │    ├── auth/
- │    ├── home/
- ├── widgets/
- ├── services/
- └── main.dart
-</pre>
-
-<hr/>
-
-<h2>🚀 Getting Started</h2>
-
-<ol>
-  <li>
-    Clone the repository:
-    <pre>git clone https://github.com/your-username/your-repo-name.git</pre>
-  </li>
-  <li>
-    Install dependencies:
-    <pre>flutter pub get</pre>
-  </li>
-  <li>
-    Run the app:
-    <pre>flutter run</pre>
-  </li>
-</ol>
-
-<hr/>
-
-<h2>📬 Contact</h2>
-
-<p>
-  GitHub:
-  <a href="https://github.com/Abdallah3108" target="_blank">
-    Abdallah3108
+<p align="center">
+  📱 <b>WhatsApp:</b>
+  <a href="https://wa.me/201019108385" target="_blank">
+    +20 101 910 8385
   </a>
 </p>
 
 <p align="center">
-  ⭐ If you like this project, don't forget to star it!
+  🔵 <b>Facebook:</b>
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    facebook.com/your-profile
+  </a>
+</p>
+
+<p align="center">
+  💼 <b>LinkedIn:</b>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    linkedin.com/in/your-profile
+  </a>
+</p>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  ⭐ Feel free to explore my repositories and give them a star
+</p>
+
+<p align="center">
+  🚀 Always learning • Always building with Flutter
 </p>
