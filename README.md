@@ -12,8 +12,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cubit-Bloc-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%E2%9C%94-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-✔-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-✔-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-✔-blueviolet?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -38,16 +44,16 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>💾 Local Storage</h3>
-      <p>SharedPreferences</p>
+      <h3>💻 Programming</h3>
+      <p>C++ • Python</p>
     </td>
     <td align="center">
-      <h3>🧱 Architecture</h3>
-      <p>MVVM • Clean Architecture</p>
+      <h3>🧠 CS Fundamentals</h3>
+      <p>OOP • Data Structures</p>
     </td>
     <td align="center">
-      <h3>🎯 Code Quality</h3>
-      <p>Readable • Scalable • Maintainable</p>
+      <h3>📐 Problem Solving</h3>
+      <p>Algorithms • Logic</p>
     </td>
   </tr>
 </table>
@@ -58,7 +64,7 @@
 <h2 align="center">📸 App Screenshots</h2>
 
 <p align="center">
-  <!-- غير الصور دي بسكرينشوتس مشاريعك -->
+  <!-- استبدل الصور دي بسكرينشوتس مشاريعك -->
   <img src="https://via.placeholder.com/220x440?text=Login+Screen" width="190"/>
   <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="190"/>
   <img src="https://via.placeholder.com/220x440?text=Details+Screen" width="190"/>
