@@ -49,8 +49,7 @@
 
 <p align="center">
   <!-- استبدل الصور دي بسكرينشوتس مشاريعك -->
-  <img src="<img width="370" height="799" alt="image" src="https://github.com/user-attachments/assets/3497dd4f-2952-4f01-a3e9-2700fd6bfbf4" />
-" width="200"/>
+  <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="200"/>
   <img src="https://via.placeholder.com/220x440?text=Home+Screen" width="200"/>
   <img src="https://via.placeholder.com/220x440?text=Details+Screen" width="200"/>
 </p>
